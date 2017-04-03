@@ -1,0 +1,8 @@
+C:\Users\eklever\Desktop\Azure\ekl\bin\Debug\netcoreapp1.1\ekl.deps.json
+C:\Users\eklever\Desktop\Azure\ekl\bin\Debug\netcoreapp1.1\ekl.runtimeconfig.json
+C:\Users\eklever\Desktop\Azure\ekl\bin\Debug\netcoreapp1.1\ekl.runtimeconfig.dev.json
+C:\Users\eklever\Desktop\Azure\ekl\bin\Debug\netcoreapp1.1\ekl.dll
+C:\Users\eklever\Desktop\Azure\ekl\bin\Debug\netcoreapp1.1\ekl.pdb
+C:\Users\eklever\Desktop\Azure\ekl\obj\Debug\netcoreapp1.1\ekl.AssemblyInfo.cs
+C:\Users\eklever\Desktop\Azure\ekl\obj\Debug\netcoreapp1.1\ekl.dll
+C:\Users\eklever\Desktop\Azure\ekl\obj\Debug\netcoreapp1.1\ekl.pdb
